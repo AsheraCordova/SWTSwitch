@@ -11,5 +11,5 @@ cordova plugin add https://github.com/AsheraCordova/SWTSwitch.git
 ```
 
 ## Important Links
-https://asheracordova.github.io/doc/com/ashera/plugin/Switch.html
+https://asheracordova.github.io/doc/android/widget/Switch.html
 
